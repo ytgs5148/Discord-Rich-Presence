@@ -7,10 +7,9 @@ This *small Javascript application* will help you create your own *custom Discor
 3. Basic knowledge on **.json** file types *(everything on how to configure has been explained below)*
 
 # How to run this?
-1. Open the **build** folder in the repository
-2. Click on **drp.zip** file and click download
-3. After unzipping it, open the directory and copy the folder path
-4. Open up **cmd** and run these commands:-
+1. Download the file [from here](https://github.com/ytgs5148/Discord-Rich-Presence/releases/tag/v1.0.0)
+2. After unzipping it, open the directory and copy the folder path
+3. Open up **cmd** and run these commands:-
 ```cmd
 cd <folder_path you copied>
 node app.js <category>
