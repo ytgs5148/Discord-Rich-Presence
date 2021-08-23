@@ -1,0 +1,26 @@
+{
+    "mode": "test",
+
+    "categoryName": {
+        "id": "Read README.md to get the ID",
+        "details": "Title of the Discord Rich Presense",
+        "state": "Sub-Title",
+
+        "smallImageKey": "small image key",
+        "smallImageText": "image on hover text",
+
+        "largeImageKey": "main image key",
+        "largeImageText": "main image key on hover text"
+    },
+    "afk": {
+        "id": "878325246413922436",
+        "details": "",
+        "state": "",
+
+        "smallImageKey": "",
+        "smallImageText": "",
+
+        "largeImageKey": "afk",
+        "largeImageText": "AFK'ing"
+    }
+}
