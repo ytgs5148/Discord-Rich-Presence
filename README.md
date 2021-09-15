@@ -21,7 +21,7 @@ To configure the application, follow the above steps on how to run the applicati
 
 Once opened, you will see something like this,
 
-```json
+```jsonc
 {
     // "categoryName" is the category name for this status type. Use "node app.js categoryName" to run the application.
     "categoryName": {
